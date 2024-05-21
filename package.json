@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chenbo-ies/package-sample5/issues"
   },
-  "homepage": "https://github.com/chenbo-ies/package-sample5#readme"
+  "homepage": "https://github.com/chenbo-ies/package-sample5#readme",
+  "publishConfig": {
+    "@chenbo-ies:registry": "https://npm.pkg.github.com"
+  }
 }
